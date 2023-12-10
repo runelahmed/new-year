@@ -120,29 +120,30 @@
 
     }
 
-    .footer-title{
+    .footer-title {
         font-size: 40px;
         margin: 0px;
         color: #fff;
     }
 
-    .footer-card a{
+    .footer-card a {
         color: white;
     }
-    .footer-des{
+
+    .footer-des {
         padding-right: 50px;
         color: #fff;
     }
 
-    .footer-card .images{
+    .footer-card .images {
         display: flex;
     }
 
-    .images img{
+    .images img {
         padding-right: 10px;
     }
 
-    .footer .container .footer-card-left{
+    .footer .container .footer-card-left {
         padding-left: 200px;
     }
 
@@ -160,13 +161,15 @@
 
     }
 
-    .subscribe{
+    .subscribe {
         color: #fff;
         margin-top: 0;
         margin-bottom: 30px;
     }
 
-
+    #btn-subscribe {
+        color: #ef4141;
+    }
 
     /* Utility classes */
 
@@ -239,3 +242,4 @@
     .btn-white:hover {
         opacity: 0.8;
     }
+    
